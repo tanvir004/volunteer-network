@@ -20,8 +20,10 @@ const Home = () => {
 
     const handleEvent =()=>{
       // const listItem = {...list}
-            
+                       
             setEventData(list);
+            
+            
             
 
     }
