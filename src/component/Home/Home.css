@@ -1,0 +1,17 @@
+.headLine{
+    text-align: center;
+}
+.item{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.imgItem{
+    width: 100%;
+}
+
+.singleItem {
+    width: 30%;
+    padding: 2%;
+}

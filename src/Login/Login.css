@@ -1,0 +1,21 @@
+.icon{
+    width:30px
+}
+.thirdPartyLgBtn{
+    width: 80%;
+    background-color: linear-gradient(rgba(0, 0, 0, 0.5));
+    color: black;
+    border: white;
+    border-radius: 20px;
+}
+.thirdPartyLgBtn:hover{
+    background-color:#4285f4;
+    color: white;
+}
+.loginArea{
+    margin: 20px;
+    padding:20px;
+    text-align: center;
+    border: 1px solid grey;
+    background-color:#f8f9fa;
+}
